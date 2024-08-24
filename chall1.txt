@@ -1,0 +1,2 @@
+https://www.nslookup.io/domains/ctf.sentinel-cyber.sg/dns-records/
+check mail server, remove the .domain and wrap with flag format
