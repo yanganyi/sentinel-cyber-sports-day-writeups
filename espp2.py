@@ -1,5 +1,3 @@
-# im not sure if this is 2 or 1 but yeah
-
 from pwn import *
 p = remote("ctf.sentinel-cyber.sg", 32029)
 p.sendline("START")

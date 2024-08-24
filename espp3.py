@@ -1,5 +1,3 @@
-# not sure if this is 3 but idrmb cos they took the website down
-
 from pwn import *
 
 USERS_DB = {
